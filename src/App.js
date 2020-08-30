@@ -1,12 +1,22 @@
 import React from 'react';
-
+import {Route} from 'react-router-dom';
+import CssBaseline from '@material-ui/core/CssBaseline';
 import './App.css';
+import Home from "./components/Home.js";
+import Resume from "./components/Resume";
+import { Document,Page } from 'react-pdf';
 
 function App() {
   return (
-    <div className="App">
-     <h1>portfolio</h1>
-    </div>
+    <>
+    
+      <CssBaseline/>
+      <Route exact path="/" component={Home}/>
+      <Route exact path="/React_Portfolio" component={Home}/>
+      <Route  path="/resume" component={Resume}/> 
+    
+      
+    </>
   );
 }
 
