@@ -6,6 +6,7 @@ import Home from "./components/Home.js";
 import Resume from "./components/Resume";
 import { Document,Page } from 'react-pdf';
 import Portfolio from "./components/Portfolio"
+import Contact from "./components/Contact"
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Route exact path="/React_Portfolio" component={Home}/>
       <Route  path="/resume" component={Resume}/> 
       <Route  path="/portfolio" component={Portfolio}/> 
+      <Route  path="/contacts" component={Contact}/> 
     
       
     </>
