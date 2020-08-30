@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.5facb584.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.11c5b1ce.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.11c5b1ce.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.8923e71b.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.5df86f5d.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.5df86f5d.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.f4efdfd9.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.f4efdfd9.js.map",
-    "static/js/2.f164797f.chunk.js": "/React_Portfolio/static/js/2.f164797f.chunk.js",
-    "static/js/2.f164797f.chunk.js.map": "/React_Portfolio/static/js/2.f164797f.chunk.js.map",
+    "static/js/2.dc7a94ad.chunk.js": "/React_Portfolio/static/js/2.dc7a94ad.chunk.js",
+    "static/js/2.dc7a94ad.chunk.js.map": "/React_Portfolio/static/js/2.dc7a94ad.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.b08e76d9ad4a941d56108495152e92b1.js": "/React_Portfolio/precache-manifest.b08e76d9ad4a941d56108495152e92b1.js",
+    "precache-manifest.5b7f080d7e3af2e1e8abb11f932c80db.js": "/React_Portfolio/precache-manifest.5b7f080d7e3af2e1e8abb11f932c80db.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/React_Portfolio/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.f164797f.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.f164797f.chunk.js.LICENSE.txt"
+    "static/css/main.8923e71b.chunk.css.map": "/React_Portfolio/static/css/main.8923e71b.chunk.css.map",
+    "static/js/2.dc7a94ad.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.dc7a94ad.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React_Portfolio/static/media/Background.5ef56530.jpg",
+    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.76c1fc0d.pdf",
+    "static/media/avatar.png": "/React_Portfolio/static/media/avatar.7276c01e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f4efdfd9.js",
-    "static/js/2.f164797f.chunk.js",
-    "static/css/main.5facb584.chunk.css",
-    "static/js/main.11c5b1ce.chunk.js"
+    "static/js/2.dc7a94ad.chunk.js",
+    "static/css/main.8923e71b.chunk.css",
+    "static/js/main.5df86f5d.chunk.js"
   ]
 }
