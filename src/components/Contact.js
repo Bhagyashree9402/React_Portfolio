@@ -49,10 +49,10 @@ const Contact = () => {
             <Nav/>
            <Grid container justify="center">
             <Box component="form" className={classes.form}>
-            <Typography variant="h5" style={{color:"tomato",textAlign:"center",textTransform:"uppercase"}}>
+            {/* <Typography variant="h5" style={{color:"tomato",textAlign:"center",textTransform:"uppercase"}}>
               Contact me
-            </Typography>
-            <InputField fullWidth={true} 
+            </Typography> */}
+            {/* <InputField fullWidth={true} 
             label="Name" 
             variant="outlined" 
             inputProps={{style:{color:"white"}}} 
@@ -72,7 +72,7 @@ const Contact = () => {
             inputProps={{style:{color:"white"}}} 
              margin="dense" 
             size="medium"
-            />
+            /> */}
             <br/>
             <Button className={classes.Button} variant="outlined"
             href="mailto:bhagyashree9402@gmail.com" 

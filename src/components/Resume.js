@@ -3,7 +3,7 @@ import {makeStyles} from "@material-ui/core/styles";
 import {Typography,Box} from "@material-ui/core/";
 import Nav from "./Nav";
 import { Document, Page, pdfjs } from "react-pdf";
-import pdfFile from '../Resume.pdf';
+import pdfFile from '../Shree_Resume.pdf';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
