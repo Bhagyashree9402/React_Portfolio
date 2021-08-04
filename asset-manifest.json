@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.93f59959.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.cfb184fd.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.cfb184fd.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.abaf3d0d.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.4358e007.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.4358e007.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.f4efdfd9.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.f4efdfd9.js.map",
-    "static/js/2.1f3bbd25.chunk.js": "/React_Portfolio/static/js/2.1f3bbd25.chunk.js",
-    "static/js/2.1f3bbd25.chunk.js.map": "/React_Portfolio/static/js/2.1f3bbd25.chunk.js.map",
+    "static/js/2.dcb115a3.chunk.js": "/React_Portfolio/static/js/2.dcb115a3.chunk.js",
+    "static/js/2.dcb115a3.chunk.js.map": "/React_Portfolio/static/js/2.dcb115a3.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.1777e401212568f7b6c00035938d48b0.js": "/React_Portfolio/precache-manifest.1777e401212568f7b6c00035938d48b0.js",
+    "precache-manifest.ec47c538471eb869d1b67afddfe38b26.js": "/React_Portfolio/precache-manifest.ec47c538471eb869d1b67afddfe38b26.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.93f59959.chunk.css.map": "/React_Portfolio/static/css/main.93f59959.chunk.css.map",
-    "static/js/2.1f3bbd25.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.1f3bbd25.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/React_Portfolio/static/media/Background.5ef56530.jpg",
-    "static/media/Finalproject.png": "/React_Portfolio/static/media/Finalproject.d3af2ac6.png",
-    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.76c1fc0d.pdf",
-    "static/media/Screenshot (2).png": "/React_Portfolio/static/media/Screenshot (2).3cc35469.png",
-    "static/media/Screenshot (3).png": "/React_Portfolio/static/media/Screenshot (3).3e4e8116.png",
-    "static/media/avatar.png": "/React_Portfolio/static/media/avatar.7276c01e.png",
-    "static/media/recipe1.png": "/React_Portfolio/static/media/recipe1.95d66be0.png",
-    "static/media/weather1.png": "/React_Portfolio/static/media/weather1.b02e0a51.png"
+    "static/css/main.abaf3d0d.chunk.css.map": "/React_Portfolio/static/css/main.abaf3d0d.chunk.css.map",
+    "static/js/2.dcb115a3.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.dcb115a3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React_Portfolio/static/media/Background.65ab22de.jpg",
+    "static/media/Finalproject.4ac90fa4.png": "/React_Portfolio/static/media/Finalproject.4ac90fa4.png",
+    "static/media/Screenshot (2).99a43b64.png": "/React_Portfolio/static/media/Screenshot (2).99a43b64.png",
+    "static/media/Screenshot (3).faf65bbc.png": "/React_Portfolio/static/media/Screenshot (3).faf65bbc.png",
+    "static/media/Shree_Resume.pdf": "/React_Portfolio/static/media/Shree_Resume.ea572513.pdf",
+    "static/media/avatar.717bc9c6.png": "/React_Portfolio/static/media/avatar.717bc9c6.png",
+    "static/media/recipe1.22db0917.png": "/React_Portfolio/static/media/recipe1.22db0917.png",
+    "static/media/weather1.a93211fa.png": "/React_Portfolio/static/media/weather1.a93211fa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f4efdfd9.js",
-    "static/js/2.1f3bbd25.chunk.js",
-    "static/css/main.93f59959.chunk.css",
-    "static/js/main.cfb184fd.chunk.js"
+    "static/js/2.dcb115a3.chunk.js",
+    "static/css/main.abaf3d0d.chunk.css",
+    "static/js/main.4358e007.chunk.js"
   ]
 }

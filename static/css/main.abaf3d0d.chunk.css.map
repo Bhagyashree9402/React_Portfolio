@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACA,yFAA4D,CAC5D,wBAAwB,CACxB,qBAAqB,CACrB,mBAAmB,CACnB,gBACA","file":"main.abaf3d0d.chunk.css","sourcesContent":["body {\nbackground:url(Background.jpg) no-repeat center center fixed;\n-webkit-background:cover;\n-moz-background:cover;\n-o-background:cover;\nbackground: cover;\n}"]}
